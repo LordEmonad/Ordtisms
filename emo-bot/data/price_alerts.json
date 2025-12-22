@@ -1,0 +1,12 @@
+{
+  "950075474": {
+    "username": "LordBitcorns",
+    "alerts": [
+      {
+        "target_price": 0.0004,
+        "direction": "above",
+        "created": "2025-12-16T02:34:12.749139"
+      }
+    ]
+  }
+}
